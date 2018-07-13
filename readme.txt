@@ -8,3 +8,6 @@ Git is free software distributed under the GPL.
 create brance dev ； （now use）
 
 create brache music；
+Creating a new branch is quick AND simple.
+
+Creating a new branch is quick & simple.
